@@ -1,5 +1,4 @@
-aka Cold Calling Scrapper
-# Places-API-
+#aka Cold Calling Scrapper
 Used this to find details of businesses in Cape Town streets, given coordinates the script would write Business information to 
 an Excel file (CSV). We would then use the information collected for Cold Calling.
 
